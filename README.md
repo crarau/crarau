@@ -1,7 +1,5 @@
 ### Hi there 👋 Ciprian (Chip) Rarau here
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=crarau&show_icons=true&locale=en&layout=compact" alt="craray" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=crarau&" alt="crarau" /></p>
