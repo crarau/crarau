@@ -1,6 +1,6 @@
 ### Hi there 👋 Ciprian (Chip) Rarau here
 
-![GitHub contributions](https://github-summary.cookskill.dev/profile/crarau?v=2026-09-13&theme=light)
+![GitHub contributions](https://github-summary.ciprianrarau.com/profile/crarau?v=2026-09-13&theme=light)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=crarau&" alt="crarau" /></p>
 
